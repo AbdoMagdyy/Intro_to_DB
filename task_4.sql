@@ -1,4 +1,4 @@
--- Print the full description of the books table
+-- Print the full description of the BOOKS table
 SELECT 
     COLUMN_NAME, 
     COLUMN_TYPE, 
